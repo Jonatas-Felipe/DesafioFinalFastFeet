@@ -10,7 +10,7 @@ Whatsapp: (11) 9 7259-6964
 ########################################
 
 Aplicação desenvolvida em:
-NodeJS 13.3.0,
+NodeJS 13.3.0,<br>
 React 16.11.0,
 React Native 0.62.0,
 MySQL 8.0.18
